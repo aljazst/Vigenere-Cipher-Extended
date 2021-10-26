@@ -5,7 +5,7 @@ This is a extended implementation of the basic vigenere cipher that uses additio
 ## Info
 
 This repo contains 2 implementations of the cipher, a basic cpp file and an object oriented programming approach. This cipher was implemented because I needed a basic cipher to use in another project. 
-The object oriented implementetion was just so I could refresh my basic c++ oop knowledge.
+The object oriented implementetion was just so I could refresh my basic c++ oop knowledge. To run the project use the cmd and type make then .\cipher.exe
 
 ## Algorithm
 
